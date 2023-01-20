@@ -1,5 +1,3 @@
-Building wheels for collected packages: docopt
-  Building wheel for docopt (setup.py) ... done
 name: stream
 channels:
   - defaults
