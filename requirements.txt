@@ -3,6 +3,6 @@ numpy
 matplotlib
 streamlit
 opencv
-opencv-python
+opencv-python==4.4.0.44
 opencv-python-headless
 tensorflow
