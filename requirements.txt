@@ -2,6 +2,6 @@ ffmpeg
 numpy
 matplotlib
 streamlit
-opencv-python-headless
 pytube
 tensorflow
+opencv-python-headless
