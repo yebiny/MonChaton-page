@@ -3,6 +3,7 @@ numpy
 matplotlib
 streamlit
 pytube
-tensorflow
 opencv-python-headless
+tensorflow
+tflite-model-maker==0.3.4
 tflite-support==0.4.*
