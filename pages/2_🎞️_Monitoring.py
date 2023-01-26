@@ -1,6 +1,5 @@
 import streamlit as st
 import cv2
-from pytube import YouTube
 import shutil
 from scripts.tflite_lib import *
 import io
