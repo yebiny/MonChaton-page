@@ -5,3 +5,4 @@ streamlit
 pytube
 tensorflow
 opencv-python-headless
+tflite-support=0.4.*
